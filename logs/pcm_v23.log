@@ -1,0 +1,207 @@
+2026-05-13 15:36:17,465 [INFO] ======================================================================
+2026-05-13 15:36:17,465 [INFO]    PCM MAROC EXTRACTOR v36 — Architecture Hybride Heuristique + IA
+2026-05-13 15:36:17,468 [INFO]    IB_Maroc_2S05.pdf
+2026-05-13 15:36:17,468 [INFO] ======================================================================
+2026-05-13 15:36:17,555 [INFO]    Exercice : 2005/2006
+2026-05-13 15:36:17,609 [INFO]      Calibré (cpc) : 2 zones=[327, 360], lmax=213
+2026-05-13 15:36:17,611 [INFO]    P1 → [cpc] zones=calibrated
+2026-05-13 15:36:17,745 [INFO]    CPC P1 → 3 lignes
+2026-05-13 15:36:17,764 [INFO]      Calibré (bilan_actif) : 4 zones=[275, 365, 455, 546], lmax=234
+2026-05-13 15:36:17,764 [INFO]    P2 → [bilan_actif] zones=calibrated
+2026-05-13 15:36:17,956 [INFO]    Bilan Actif P2 → 32 lignes
+2026-05-13 15:36:17,971 [INFO]      Calibré (bilan_passif) : 2 zones=[448, 546], lmax=196
+2026-05-13 15:36:17,971 [INFO]    P3 → [bilan_passif] zones=calibrated
+2026-05-13 15:36:18,084 [INFO]     [P23a] Label réparé: '• Capital social ou personnel' → 'Capital social ou personnel' (score=0.10)
+2026-05-13 15:36:18,116 [INFO]     [P23a] Label réparé: '• - Ationnaires, capital souscrit non appelé' → 'Actionnaires capital souscrit non appelé' (score=0.14)
+2026-05-13 15:36:18,158 [INFO]     [P23a] Label réparé: "• Primes d'émission, de fusion et d'apport" → "Primes d'émission de fusion d'apport" (score=0.17)
+2026-05-13 15:36:18,175 [INFO]     [P23a] Label réparé: '• Ecarts de réévaluation' → 'Ecarts de réévaluation' (score=0.12)
+2026-05-13 15:36:18,193 [INFO]     [P23a] Label réparé: '• Réserve légale' → 'Réserve légale' (score=0.19)
+2026-05-13 15:36:18,207 [INFO]     [P23a] Label réparé: '• Autres réserves' → 'Autres réserves' (score=0.18)
+2026-05-13 15:36:18,223 [INFO]     [P23a] Label réparé: '• Report à nouveau' → 'Report à nouveau' (score=0.17)
+2026-05-13 15:36:18,256 [INFO]     [P23a] Label réparé: "• Résultats nets en instance d'affectation" → "Résultats nets en instance d'affectation" (score=0.07)
+2026-05-13 15:36:18,277 [INFO]     [P23a] Label réparé: "• Résultat net de l'exercice" → "RÉSULTAT NET DE L'EXERCICE" (score=0.11)
+2026-05-13 15:36:18,299 [INFO]     [P23a] Label réparé: "• Subventions d'investissement" → "Subventions d'investissement" (score=0.10)
+2026-05-13 15:36:18,323 [INFO]     [P23a] Label réparé: '• Provisions réglementées' → 'Provisions réglementées' (score=0.12)
+2026-05-13 15:36:18,339 [INFO]     [P23a] Label réparé: '• Emprunts obligataires' → 'Emprunts obligataires' (score=0.13)
+2026-05-13 15:36:18,355 [INFO]     [P23a] Label réparé: '• Autres dettes de financement' → 'Autres dettes de financement' (score=0.10)
+2026-05-13 15:36:18,391 [INFO]     [P23a] Label réparé: '• Provisions pour risques' → 'Provisions pour risques' (score=0.12)
+2026-05-13 15:36:18,418 [INFO]     [P23a] Label réparé: '• Provisions pour charges' → 'Provisions pour charges' (score=0.12)
+2026-05-13 15:36:18,448 [INFO]     [P23a] Label réparé: '• Augmentation des créances immobilisées' → 'Augmentation des créances immobilisées' (score=0.07)
+2026-05-13 15:36:18,477 [INFO]     [P23a] Label réparé: '• Diminution des dettes de financement' → 'Diminution des dettes de financement' (score=0.08)
+2026-05-13 15:36:18,504 [INFO]     [P23a] Label réparé: '• Fournisseurs et comptes rattachés' → 'Fournisseurs et comptes rattachés' (score=0.09)
+2026-05-13 15:36:18,543 [INFO]     [P23a] Label réparé: '• Clients créditeurs, avances et acomptes' → 'Clients créditeurs avances et acomptes' (score=0.10)
+2026-05-13 15:36:18,561 [INFO]     [P23a] Label réparé: '• Personnel' → 'Personnel' (score=0.27)
+2026-05-13 15:36:18,585 [INFO]     [P23a] Label réparé: '• Organismes sociaux' → 'Organismes sociaux' (score=0.15)
+2026-05-13 15:36:18,610 [INFO]     [P23a] Label réparé: "• Comptes d'associés" → "Comptes d'associés" (score=0.15)
+2026-05-13 15:36:18,625 [INFO]     [P23a] Label réparé: '• Autres créanciers' → 'Autres créanciers' (score=0.16)
+2026-05-13 15:36:18,655 [INFO]     [P23a] Label réparé: '• Comptes de régularisation - passif' → 'Comptes de régularisation Passif' (score=0.14)
+2026-05-13 15:36:18,674 [INFO]     [P23a] Label réparé: "• Crédits d'escompte" → "Crédits d'escompte" (score=0.15)
+2026-05-13 15:36:18,690 [INFO]     [P23a] Label réparé: '• Crédits de trésorerie' → 'Crédits de trésorerie' (score=0.13)
+2026-05-13 15:36:18,748 [INFO]    Bilan Passif P3 → 46 lignes
+2026-05-13 15:36:18,764 [INFO]      Calibré (cpc) : 3 zones=[275, 455, 546], lmax=214
+2026-05-13 15:36:18,766 [INFO]    P4 → [cpc] zones=calibrated
+2026-05-13 15:36:18,960 [INFO]    CPC P4 → 60 lignes
+2026-05-13 15:36:18,970 [INFO]    P6 → [esg] zones=fallback
+2026-05-13 15:36:19,110 [INFO]    ESG — TFR P6 → 41 lignes
+2026-05-13 15:36:19,118 [INFO]      Calibré (tableau_financement) : 4 zones=[254, 351, 448, 546], lmax=195
+2026-05-13 15:36:19,118 [INFO]    P8 → [tableau_financement] zones=calibrated
+2026-05-13 15:36:19,316 [INFO]    Tableau Financement P8 → 11 lignes
+2026-05-13 15:36:19,324 [INFO]      Calibré (caf) : 3 zones=[351, 448, 546], lmax=247
+2026-05-13 15:36:19,324 [INFO]    P9 → [caf] zones=calibrated
+2026-05-13 15:36:19,379 [INFO]    CAF P9 → 39 lignes
+2026-05-13 15:36:19,382 [INFO]      Calibré (tableau_provisions) : 5 zones=[345, 401, 456, 512, 566], lmax=204
+2026-05-13 15:36:19,382 [INFO]    P10 → [tableau_provisions] zones=calibrated
+2026-05-13 15:36:19,442 [INFO]    Tableau Provisions P10 → 18 lignes
+2026-05-13 15:36:19,447 [INFO]      Calibré (tableau_creances) : 2 zones=[290, 512], lmax=190
+2026-05-13 15:36:19,447 [INFO]    P11 → [tableau_creances] zones=calibrated
+2026-05-13 15:36:19,486 [INFO]    Tableau Créances P11 → 18 lignes
+2026-05-13 15:36:19,490 [INFO]      Calibré (tableau_dettes) : 2 zones=[290, 457], lmax=203
+2026-05-13 15:36:19,490 [INFO]    P12 → [tableau_dettes] zones=calibrated
+2026-05-13 15:36:19,530 [INFO]    Tableau Dettes P12 → 18 lignes
+2026-05-13 15:36:19,537 [INFO]      Calibré (titres_participation) : 4 zones=[301, 457, 512, 550], lmax=213
+2026-05-13 15:36:19,537 [INFO]    P13 → [titres_participation] zones=calibrated
+2026-05-13 15:36:19,565 [INFO]     P14 : page annexe, arrêt [titres_participation]
+2026-05-13 15:36:19,573 [INFO]    Titres Participation P13 → 7 lignes
+2026-05-13 15:36:19,576 [INFO]    Merge cpc : 2 pages → 63 lignes
+2026-05-13 15:36:19,577 [INFO] 
+   COUCHE 2 — Validation structurelle CGNC
+2026-05-13 15:36:19,599 [INFO]      Bilan Actif : 100/100 (0 anomalie(s))
+2026-05-13 15:36:19,605 [INFO]      Bilan Passif : 80/100 (2 anomalie(s))
+2026-05-13 15:36:19,605 [INFO]        [w] [R11] Libellés en double : ['Total des capitaux propres', 'ECARTS DE CONVERSION - PASSIF']
+2026-05-13 15:36:19,610 [INFO]        [w] [R02] Total Passif (76,181,672) ≠ Somme des postes (594,199,666)
+2026-05-13 15:36:19,615 [INFO]      CPC : 90/100 (1 anomalie(s))
+2026-05-13 15:36:19,618 [INFO]        [w] [R11] Libellés en double : ['TABLEAU']
+2026-05-13 15:36:19,620 [INFO]      ESG — TFR : 100/100 (0 anomalie(s))
+2026-05-13 15:36:19,626 [INFO]      CAF : 90/100 (1 anomalie(s))
+2026-05-13 15:36:19,627 [INFO]        [w] [R11] Libellés en double : ["D'IMMOBILISATIONS"]
+2026-05-13 15:36:19,630 [INFO]      Tableau Financement : 100/100 (0 anomalie(s))
+2026-05-13 15:36:19,636 [INFO]      Tableau Provisions : 90/100 (1 anomalie(s))
+2026-05-13 15:36:19,636 [INFO]        [w] [R11] Libellés en double : ['Provisions pour dépréciation', 'risques et charges', 'Provisions pour dépréciation']
+2026-05-13 15:36:19,640 [INFO]      Tableau Créances : 90/100 (1 anomalie(s))
+2026-05-13 15:36:19,640 [INFO]        [w] [R11] Libellés en double : ["de l'actif"]
+2026-05-13 15:36:19,643 [INFO]      Tableau Dettes : 90/100 (1 anomalie(s))
+2026-05-13 15:36:19,643 [INFO]        [w] [R11] Libellés en double : ['de financement']
+2026-05-13 15:36:19,649 [INFO]      Titres Participation : 100/100 (0 anomalie(s))
+2026-05-13 15:36:19,651 [WARNING]      [R03] Déséquilibre Actif/Passif : 2836.6%
+2026-05-13 15:36:19,651 [INFO] 
+    PASSE 2.5 — Raffinement déterministe libellés (LRE)
+2026-05-13 15:36:19,831 [INFO]       [LRE] bilan_actif: 2 libellé(s) corrigé(s)
+2026-05-13 15:36:20,072 [INFO]       [LRE] bilan_passif: 15 libellé(s) corrigé(s)
+2026-05-13 15:36:20,488 [INFO]       [LRE] cpc: 19 libellé(s) corrigé(s)
+2026-05-13 15:36:20,854 [INFO]       [LRE] esg: 9 libellé(s) corrigé(s)
+2026-05-13 15:36:20,940 [INFO]       [LRE] caf: 5 libellé(s) corrigé(s)
+2026-05-13 15:36:20,974 [INFO]       [LRE] tableau_financement: 4 libellé(s) corrigé(s)
+2026-05-13 15:36:21,033 [INFO]       [LRE] tableau_provisions: 3 libellé(s) corrigé(s)
+2026-05-13 15:36:21,066 [INFO]       [LRE] tableau_creances: 9 libellé(s) corrigé(s)
+2026-05-13 15:36:21,105 [INFO]       [LRE] tableau_dettes: 2 libellé(s) corrigé(s)
+2026-05-13 15:36:21,123 [INFO]       [LRE] titres_participation: 3 libellé(s) corrigé(s)
+2026-05-13 15:36:21,166 [INFO] 
+   COUCHE 4 — Export Excel
+2026-05-13 15:36:21,629 [INFO]  Excel : C:\Users\Hp\Downloads\IB_Maroc_2S05_extrait_v36.xlsx
+2026-05-13 15:36:21,631 [INFO] 
+ TERMINÉ | 10 onglets | 4.2s | score moyen: 93/100
+2026-05-13 15:38:32,455 [INFO] ======================================================================
+2026-05-13 15:38:32,455 [INFO]    PCM MAROC EXTRACTOR v36 — Architecture Hybride Heuristique + IA
+2026-05-13 15:38:32,455 [INFO]    BILAN-2019-MOUSTAQBEL.pdf
+2026-05-13 15:38:32,455 [INFO] ======================================================================
+2026-05-13 15:38:33,095 [INFO]    Exercice : 2019
+2026-05-13 15:38:33,344 [INFO]      Calibré (bilan_actif) : 4 zones=[365, 431, 495, 561], lmax=331
+2026-05-13 15:38:33,345 [INFO]    P1 → [bilan_actif] zones=calibrated
+2026-05-13 15:38:33,635 [INFO]    Bilan Actif P1 → 45 lignes
+2026-05-13 15:38:33,649 [INFO]      Calibré (bilan_passif) : 2 zones=[465, 541], lmax=209
+2026-05-13 15:38:33,651 [INFO]    P2 → [bilan_passif] zones=calibrated
+2026-05-13 15:38:33,850 [INFO]     [P23a] Label réparé: 'moins actionnaires, capital souscrit non appele' → 'Actionnaires capital souscrit non appelé' (score=0.17)
+2026-05-13 15:38:33,890 [INFO]     [P23a] Label réparé: 'I Reserve legale' → 'Réserve légale' (score=0.19)
+2026-05-13 15:38:33,906 [INFO]     [P23a] Label réparé: 'N Report a nouveau' → 'Report à nouveau' (score=0.17)
+2026-05-13 15:38:33,935 [INFO]     [P23a] Label réparé: 'M Total des capitaux propres' → 'Total des capitaux propres' (score=0.11)
+2026-05-13 15:38:33,956 [INFO]     [P23a] Label réparé: "N Subventions d'investissement" → "Subventions d'investissement" (score=0.10)
+2026-05-13 15:38:33,981 [INFO]     [P23a] Label réparé: 'M DETTES DE FINANCEMENT' → 'Autres dettes de financement' (score=0.12)
+2026-05-13 15:38:34,006 [INFO]     [P23a] Label réparé: 'N Autres dettes de financement' → 'Autres dettes de financement' (score=0.10)
+2026-05-13 15:38:34,022 [INFO]     [P23a] Label réparé: 'I Organismes sociaux' → 'Organismes sociaux' (score=0.15)
+2026-05-13 15:38:34,047 [INFO]     [P23a] Label réparé: 'I Comptes regularisation passif' → 'Comptes de régularisation Passif' (score=0.19)
+2026-05-13 15:38:34,130 [INFO]    Bilan Passif P2 → 40 lignes
+2026-05-13 15:38:34,145 [INFO]      Calibré (cpc) : 3 zones=[340, 481, 552], lmax=292
+2026-05-13 15:38:34,145 [INFO]    P3 → [cpc] zones=calibrated
+2026-05-13 15:38:34,486 [INFO]    CPC P3 → 54 lignes
+2026-05-13 15:38:34,510 [INFO]      Calibré (esg) : 2 zones=[467, 550], lmax=162
+2026-05-13 15:38:34,514 [INFO]    P5 → [esg] zones=calibrated
+2026-05-13 15:38:34,815 [INFO]    ESG — TFR P5 → 41 lignes
+2026-05-13 15:38:34,824 [INFO]      Calibré (tableau_financement) : 4 zones=[360, 425, 490, 555], lmax=179
+2026-05-13 15:38:34,824 [INFO]    P6 → [tableau_financement] zones=calibrated
+2026-05-13 15:38:34,849 [INFO]     P7 hors-périmètre PCM → reset [tableau_financement]
+2026-05-13 15:38:34,852 [INFO]    Tableau Financement P6 → 37 lignes
+2026-05-13 15:38:35,302 [INFO]      Calibré (tableau_immobilisations) : 2 zones=[359, 745], lmax=186
+2026-05-13 15:38:35,302 [INFO]    P13 → [tableau_immobilisations] zones=calibrated
+2026-05-13 15:38:35,376 [INFO]    Tableau Immobilisations P13 → 17 lignes
+2026-05-13 15:38:35,378 [INFO]      Calibré (tableau_amortissements) : 4 zones=[416, 521, 703, 737], lmax=332
+2026-05-13 15:38:35,378 [INFO]    P14 → [tableau_amortissements] zones=calibrated
+2026-05-13 15:38:35,531 [INFO]    Tableau Amortissements P14 → 19 lignes
+2026-05-13 15:38:35,534 [INFO]      Calibré (titres_participation) : 7 zones=[372, 456, 524, 594, 645, 746, 813], lmax=300
+2026-05-13 15:38:35,534 [INFO]    P16 → [titres_participation] zones=calibrated
+2026-05-13 15:38:35,660 [INFO]    Titres Participation P16 → 6 lignes
+2026-05-13 15:38:35,663 [INFO]    P17 → [tableau_provisions] zones=fallback
+2026-05-13 15:38:35,736 [INFO]    P18 → [tableau_creances] zones=fallback
+2026-05-13 15:38:35,802 [INFO]    P19 → [tableau_dettes] zones=fallback
+2026-05-13 15:38:36,069 [INFO]     P21 : page annexe, arrêt [tableau_dettes]
+2026-05-13 15:38:36,084 [INFO]    Tableau Dettes P19 → 12 lignes
+2026-05-13 15:38:36,501 [INFO]      Calibré (detail_cpc) : 2 zones=[479, 561], lmax=436
+2026-05-13 15:38:36,501 [INFO]    P23 → [detail_cpc] zones=calibrated
+2026-05-13 15:38:36,865 [INFO]     [P31-3] DetailCPC : 1 total(aux) Exercice N reconstruit(s)
+2026-05-13 15:38:36,865 [INFO]    Détail Postes CPC P23 → 77 lignes
+2026-05-13 15:38:36,876 [INFO]      Calibré (resultat_fiscal) : 2 zones=[385, 467], lmax=184
+2026-05-13 15:38:36,876 [INFO]    P25 → [resultat_fiscal] zones=calibrated
+2026-05-13 15:38:37,125 [INFO]    Résultat Fiscal P25 → 31 lignes
+2026-05-13 15:38:37,129 [INFO]      Calibré (determination_resultat) : 1 zones=[558], lmax=213
+2026-05-13 15:38:37,131 [INFO]    P26 → [determination_resultat] zones=calibrated
+2026-05-13 15:38:37,170 [INFO]     P27 : page annexe, arrêt [determination_resultat]
+2026-05-13 15:38:37,202 [INFO]    Résultat Courant P26 → 10 lignes
+2026-05-13 15:38:37,570 [INFO]      Calibré (affectation_resultats) : 1 zones=[735], lmax=314
+2026-05-13 15:38:37,572 [INFO]    P29 → [affectation_resultats] zones=calibrated
+2026-05-13 15:38:37,658 [INFO]    Affectation Résultats P29 → 10 lignes
+2026-05-13 15:38:37,661 [INFO]      Calibré (resultats_3ans) : 3 zones=[518, 601, 683], lmax=464
+2026-05-13 15:38:37,661 [INFO]    P30 → [resultats_3ans] zones=calibrated
+2026-05-13 15:38:37,945 [INFO]    Résultats 3 Exercices P30 → 16 lignes
+2026-05-13 15:38:37,945 [INFO] 
+   COUCHE 2 — Validation structurelle CGNC
+2026-05-13 15:38:37,976 [INFO]      Bilan Actif : 100/100 (0 anomalie(s))
+2026-05-13 15:38:37,984 [INFO]      Bilan Passif : 80/100 (2 anomalie(s))
+2026-05-13 15:38:37,984 [INFO]        [w] [R11] Libellés en double : ['Autres dettes de financement']
+2026-05-13 15:38:37,984 [INFO]        [w] [R02] Total Passif (189,694) ≠ Somme des postes (748,307)
+2026-05-13 15:38:37,995 [INFO]      CPC : 100/100 (0 anomalie(s))
+2026-05-13 15:38:38,001 [INFO]      ESG — TFR : 100/100 (0 anomalie(s))
+2026-05-13 15:38:38,013 [INFO]      Tableau Financement : 100/100 (0 anomalie(s))
+2026-05-13 15:38:38,016 [INFO]      Tableau Immobilisations : 90/100 (1 anomalie(s))
+2026-05-13 15:38:38,017 [INFO]        [w] [R11] Libellés en double : ['Mobilier et materiel de bureau et amenagement']
+2026-05-13 15:38:38,024 [INFO]      Tableau Amortissements : 100/100 (0 anomalie(s))
+2026-05-13 15:38:38,030 [INFO]      Tableau Dettes : 100/100 (0 anomalie(s))
+2026-05-13 15:38:38,034 [INFO]      Titres Participation : 100/100 (0 anomalie(s))
+2026-05-13 15:38:38,034 [INFO]      Détail Postes CPC : 90/100 (1 anomalie(s))
+2026-05-13 15:38:38,034 [INFO]        [w] [R11] Libellés en double : ['TOTAL', 'TOTAL', 'TOTAL']
+2026-05-13 15:38:38,044 [INFO]      Résultat Fiscal : 90/100 (1 anomalie(s))
+2026-05-13 15:38:38,044 [INFO]        [w] [R11] Libellés en double : ['ARRONDIS TVA', '. Exercice n', '. Exercice n']
+2026-05-13 15:38:38,044 [INFO]      Résultat Courant : 90/100 (1 anomalie(s))
+2026-05-13 15:38:38,044 [INFO]        [w] [R11] Libellés en double : ['. Reintegrations fiscales sur operations courantes']
+2026-05-13 15:38:38,044 [INFO]      Affectation Résultats : 100/100 (0 anomalie(s))
+2026-05-13 15:38:38,055 [INFO]      Résultats 3 Exercices : 100/100 (0 anomalie(s))
+2026-05-13 15:38:38,057 [WARNING]      [R03] Déséquilibre Actif/Passif : 135.6%
+2026-05-13 15:38:38,059 [INFO] 
+    PASSE 2.5 — Raffinement déterministe libellés (LRE)
+2026-05-13 15:38:38,323 [INFO]       [LRE] bilan_actif: 39 libellé(s) corrigé(s)
+2026-05-13 15:38:38,554 [INFO]       [LRE] bilan_passif: 25 libellé(s) corrigé(s)
+2026-05-13 15:38:38,801 [INFO]       [LRE] cpc: 25 libellé(s) corrigé(s)
+2026-05-13 15:38:39,141 [INFO]       [LRE] esg: 5 libellé(s) corrigé(s)
+2026-05-13 15:38:39,440 [INFO]       [LRE] tableau_financement: 5 libellé(s) corrigé(s)
+2026-05-13 15:38:39,546 [INFO]       [LRE] tableau_immobilisations: 6 libellé(s) corrigé(s)
+2026-05-13 15:38:39,634 [INFO]       [LRE] tableau_amortissements: 3 libellé(s) corrigé(s)
+2026-05-13 15:38:39,700 [INFO]       [LRE] tableau_dettes: 2 libellé(s) corrigé(s)
+2026-05-13 15:38:39,729 [INFO]       [LRE] titres_participation: 1 libellé(s) corrigé(s)
+2026-05-13 15:38:40,028 [INFO]       [LRE] detail_cpc: 11 libellé(s) corrigé(s)
+2026-05-13 15:38:40,129 [INFO]       [LRE] resultat_fiscal: 2 libellé(s) corrigé(s)
+2026-05-13 15:38:40,181 [INFO]       [LRE] determination_resultat: 1 libellé(s) corrigé(s)
+2026-05-13 15:38:40,230 [INFO]       [LRE] affectation_resultats: 1 libellé(s) corrigé(s)
+2026-05-13 15:38:40,325 [INFO]       [LRE] resultats_3ans: 1 libellé(s) corrigé(s)
+2026-05-13 15:38:40,404 [INFO] 
+   COUCHE 4 — Export Excel
+2026-05-13 15:38:40,920 [INFO]  Excel : C:\Users\Hp\Downloads\BILAN-2019-MOUSTAQBEL_extrait_v36.xlsx
+2026-05-13 15:38:40,920 [INFO] 
+ TERMINÉ | 14 onglets | 8.5s | score moyen: 96/100
